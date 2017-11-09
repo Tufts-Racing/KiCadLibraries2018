@@ -1,0 +1,9 @@
+# temp files
+*.bak
+*.bck
+*.kicad_pcb-bak
+*-cache.lib
+*.dcm
+
+# for external tools
+*.dsn
