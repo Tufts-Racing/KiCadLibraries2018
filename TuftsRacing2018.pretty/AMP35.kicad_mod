@@ -1,4 +1,4 @@
-(module "Ampseal - 8 pin" (layer F.Cu) (tedit 594F28B2)
+(module AMP35 (layer F.Cu) (tedit 594F28B2)
   (fp_text reference REF** (at 0 -6.5) (layer F.SilkS)
     (effects (font (size 1 1) (thickness 0.15)))
   )
